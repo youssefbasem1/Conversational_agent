@@ -40,7 +40,7 @@
 
 5. To evaluate agents, run:
    ```sh
-   python bonus_evaluation.py
+   python evaluation.py
    ```
 
 ---
